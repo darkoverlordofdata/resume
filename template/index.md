@@ -3,8 +3,11 @@ layout: default
 ---
 ##### Bruce Davidson
 [darkoverlodofdata@gmail.com](mailto:darkoverlodofdata@gmail.com)
+ - mobile (206) 372-8775
 
-#### Technical Skillset
+* * *
+
+### Technical Skillset
 
 ##### Platforms
 

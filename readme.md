@@ -1,6 +1,9 @@
 ##### Bruce Davidson
 [darkoverlodofdata@gmail.com](mailto:darkoverlodofdata@gmail.com)
 
+* * *
+
+
 #### Technical Skillset
 
 ##### Platforms
