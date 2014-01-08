@@ -164,4 +164,4 @@ Heroku, OpenShift, AppFog
     Wrote a payable package to automate monthly payments to the insurance carriers,
     accompanied with EDI transmittal via magnetic tape.
 
-    Head developer on a team to implement automated claims processing.
+    Lead developer on a team to implement automated claims processing.
