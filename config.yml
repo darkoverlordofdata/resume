@@ -4,7 +4,7 @@ name: Bruce Davidson
 url: http://localhost/
 port: 0xd16a
 
-source: ./source
+source: ./template
 destination: ./www
 serve:
   - ./www

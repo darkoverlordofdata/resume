@@ -13,7 +13,7 @@
     }
   ],
   "dependencies": {
-    "huginn": "0.0.15",
+    "huginn": "0.0.16",
     "coffee-script": "~1.6.3"
   },
   "scripts": {},
@@ -22,8 +22,8 @@
   "repository": "git://github.com/darkoverlordofdata/resume",
   "main": "index",
   "engines": {
-    "node": ">=0.10.x",
-    "npm": ">=1.2.x"
+    "node": "0.10.x",
+    "npm": "1.2.x"
   },
   "license": "MIT"
 }
