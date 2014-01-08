@@ -25,7 +25,7 @@ Heroku, OpenShift, AppFog
 
 ##### Microsoft, Redmond WA - Jul 2007 – Mar 2011
 
-###### Operations Engineer II -
+###### Operations Engineer II
     Lead IT build engineer responsible for design and implementation of SAP Security
 
     As lead for vendor security resources in Redmond and India, I provided documentation
@@ -43,16 +43,14 @@ Heroku, OpenShift, AppFog
     I worked with internal audit and compliance teams to identify and remediate SOX concerns
     and Segregation of Duty conflicts in user roles.
 
-</p>
     I spearheaded the decision to replace rather, than upgrade our custom Web-based provisioning
     application. By doing a feature by feature gap analysis to off-the-shelf tools
     I influenced the decision to use SAP GRC. I was then part of the project team to convert
     the custom tool to GRC, in the role of user acceptance tester.
-</p>
 
 ##### Microsoft, Redmond WA - Jul 1998 – Jun 2007
 
-###### Application Support Analyst -
+###### Application Support Analyst
     Tier II support, responsible for resolving issues escalated from Tier I (Help Desk).
 
     I authored knowledge base articles for Help Desk in-house self-service tools.
@@ -92,7 +90,7 @@ Heroku, OpenShift, AppFog
 
     To support the release, I developed a VB6 application that automated the transport process,
     averaging 60 transports a day during the height of the project.
-<p>
+
     This application tracked all transports in a database that we used for resolving transport conflicts,
     and as a basis for project metrics.
 
@@ -133,7 +131,7 @@ Heroku, OpenShift, AppFog
 
     As we the upgraded to VAX/VMS, I worked with a consultant to customize
     Fenix Group ERP software to meet the needs of the apparel industry.
-<p>
+
     After go-live, I drove improvements in the Inventory Management module to
     automate the annual physical inventory process, driving down costs and increasing
     accuracy.
