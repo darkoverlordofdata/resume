@@ -2,7 +2,7 @@
 layout: default
 ---
 ##### Bruce Davidson
-[darkoverlodofdata@gmail.com](mailto:darkoverlodofdata@gmail.com)
+[darkoverlordofdata@gmail.com](mailto:darkoverlordofdata@gmail.com)
  - mobile (206) 372-8775
 
 * * *
