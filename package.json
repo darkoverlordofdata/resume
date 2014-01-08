@@ -1,0 +1,29 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "My resume",
+  "keywords": [
+    "huginn"
+  ],
+  "author": "bruce davidson <darkoverlordofdata@gmail.com>",
+  "contributors": [
+    {
+      "name": "bruce davidson",
+      "email": "darkoverlordofdata@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "huginn": "0.0.15",
+    "coffee-script": "~1.6.3"
+  },
+  "scripts": {},
+  "bin": {},
+  "devDependencies": {},
+  "repository": "git://github.com/darkoverlordofdata/resume",
+  "main": "index",
+  "engines": {
+    "node": ">=0.10.x",
+    "npm": ">=1.2.x"
+  },
+  "license": "MIT"
+}

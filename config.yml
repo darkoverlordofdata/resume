@@ -1,0 +1,26 @@
+description: resume
+name: Bruce Davidson
+
+url: http://localhost/
+port: 0xd16a
+
+source: ./source
+destination: ./www
+serve:
+  - ./www
+
+plugins:
+  - huginn-asset-bundler
+
+asset_bundler:
+  compress:
+    js: true
+    css: true
+  base_path: /
+  shim: ''
+  server_url: //cdn.darkoverlordofdata.com/
+  remove_bundled: false
+  dev: false
+  markup_templates:
+    js: "<script type='text/javascript' src='{{url}}'></script>\n"
+    css: "<link rel='stylesheet' type='text/css' href='{{url}}' />\n"
