@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: resume
 ---
 ##### Bruce Davidson
 [darkoverlordofdata@gmail.com](mailto:darkoverlordofdata@gmail.com)
@@ -7,7 +7,7 @@ layout: default
 
 * * *
 
-### Technical Skillset
+#### Technical Skillset
 
 ##### Platforms
 
