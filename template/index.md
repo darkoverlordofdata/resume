@@ -29,6 +29,13 @@ Heroku, OpenShift, AppFog
 
 #### Professional Experience
 
+##### Dark Overlord of Data, Seattle WA - December 2011 - present
+
+###### Webmaster
+Responsible for architecture and design, as well as development, maintenance and
+administration of [www.darkoverlordofdata.com](http://darkoverlordofdata.com)
+
+
 ##### Microsoft, Redmond WA - Jul 2007 – Mar 2011
 
 ###### Operations Engineer II
@@ -84,7 +91,7 @@ and batch job changes.
 
 I was responsible for applying SAP support packs as part of a quarterly rollout cycle.
 
-I designed an automated update process from SAP to a Sharepoint portal, reporting monthly
+I designed an automated update process from SAP to a SharePoint portal, reporting monthly
 growth rate for SAP master data tables.
 
 ##### SolutionsIQ, Redmond WA - Jul 1996 – Jun 1998
@@ -108,7 +115,7 @@ As a ROSS/GL legacy support analyst, I provided application support to corporate
 users at Microsoft.
 
 I wrote several monthly summarization sales reports tracking sales by
-Microscoft subsidiaries.
+Microsoft subsidiaries.
 
 I wrote an application to aid IT with internal FI reporting distribution,
 preventing duplication and cutting down on paper printing.
@@ -117,7 +124,7 @@ preventing duplication and cutting down on paper printing.
 
 ###### System Administrator/Developer
 
-As IT manager for a sportswear distributor, I was responsible for hardware maintenace
+As IT manager for a sportswear distributor, I was responsible for hardware maintenance
 contracts, purchasing supplies, and hiring 2 assistants.
 
 Drove reporting improvements to increase availability and reliability of inventory
@@ -130,10 +137,11 @@ Drove online archiving of prior years data for improved management reporting.
 
 ##### JM Business Enterprise, Seattle WA - Feb 1989 – Apr 1992
 
-###### Appliction Developer for a major West Coast sportswear distributor
+###### Application Developer for a major West Coast sportswear distributor
 
 I was a combination application support and maintenance programmer on an existing PDP-11
-installation.
+installation. My duties included inventory control, ensuring that the database reflected
+real stock levels, as well as proving support to fulfillment personnel.
 
 As we the upgraded to VAX/VMS, I worked with a consultant to customize
 Fenix Group ERP software to meet the needs of the apparel industry.
